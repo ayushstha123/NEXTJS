@@ -13,4 +13,4 @@
 - [ ] Routing / image upload (parallel route)
 - [ ] delete button (w/Server Actions)
 - [ ] Analytics (posthog)
-- [ ] Retelimiting (upstash) 
+- [ ] Retelimiting (upstash)    
